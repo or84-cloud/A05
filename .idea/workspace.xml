@@ -4,19 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7e85ef-19a4-4b2d-9e1c-216b6aa30bbe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/images/brancaccio75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/brancaccio75.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/images/chua75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/chua75.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Images/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/images/sorkin75.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Images/sorkin75.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/images/town_hall_logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/Images/town_hall_logo.gif" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/index.txt" beforeDir="false" afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/speakers/brancaccio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Speakers/brancaccio.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/speakers/chua.html" beforeDir="false" afterPath="$PROJECT_DIR$/Speakers/chua.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/A05/speakers/sorkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Speakers/sorkin.html" afterDir="false" />
+    <list default="true" id="9a7e85ef-19a4-4b2d-9e1c-216b6aa30bbe" name="Changes" comment="Feature: Finally got the files uploaded, working through questions now">
+      <change afterPath="$PROJECT_DIR$/Images/chua75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/sorkin75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images/town_hall_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speakers/chua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Speakers/sorkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,49 +28,54 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "or84-cloud"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;or84-cloud&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/or84-cloud/A05.git",
-    "accountId": "c2ca0bae-2c07-4674-ade7-9066ddad1462"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/or84-cloud/A05.git&quot;,
+    &quot;accountId&quot;: &quot;c2ca0bae-2c07-4674-ade7-9066ddad1462&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="34NzgdiHbQGdyWXiYVQM2fy4Cif" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "vcs.Git",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Images" />
       <recent name="$PROJECT_DIR$/Speakers" />
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -90,11 +92,43 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761068930661</updated>
-      <workItem from="1761068931721" duration="665000" />
+      <workItem from="1761068931721" duration="1356000" />
     </task>
+    <task id="LOCAL-00001" summary="Feature: Finally got the files uploaded, working through questions now">
+      <option name="closed" value="true" />
+      <created>1761069813849</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761069813849</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Feature: Finally got the files uploaded, working through questions now">
+      <option name="closed" value="true" />
+      <created>1761069868613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761069868613</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature: Finally got the files uploaded, working through questions now" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Finally got the files uploaded, working through questions now" />
   </component>
 </project>
