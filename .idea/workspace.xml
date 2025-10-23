@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7e85ef-19a4-4b2d-9e1c-216b6aa30bbe" name="Changes" comment="Feature: Remote Repo is up now :)">
+    <list default="true" id="9a7e85ef-19a4-4b2d-9e1c-216b6aa30bbe" name="Changes" comment="Feature: Lowered letter casing on &quot;this season's guests&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Speakers/brancaccio.html" beforeDir="false" afterPath="$PROJECT_DIR$/Speakers/brancaccio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Speakers/chua.html" beforeDir="false" afterPath="$PROJECT_DIR$/Speakers/chua.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Speakers/sorkin.html" beforeDir="false" afterPath="$PROJECT_DIR$/Speakers/sorkin.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +67,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -99,7 +103,10 @@
       <option name="presentableId" value="Default" />
       <updated>1761068930661</updated>
       <workItem from="1761068931721" duration="3146000" />
-      <workItem from="1761084986197" duration="7471000" />
+      <workItem from="1761084986197" duration="8143000" />
+      <workItem from="1761233658069" duration="596000" />
+      <workItem from="1761234336900" duration="73000" />
+      <workItem from="1761236180445" duration="2237000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Finally got the files uploaded, working through questions now">
       <option name="closed" value="true" />
@@ -157,7 +164,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761070863884</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Feature: Added img's for Guest Speakers, Changed footer for Assignment instructions, corrected img for the &lt;head&gt; tag, added customer quote, created list for tix prices, formatted begining info (name, motto, &amp; 75th aniversary">
+      <option name="closed" value="true" />
+      <created>1761101605035</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1761101605035</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Feature: Lowered letter casing on &quot;this season's guests&quot;">
+      <option name="closed" value="true" />
+      <created>1761101700230</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1761101700230</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +202,8 @@
     <MESSAGE value="Feature: Uploading to GitHub (again)" />
     <MESSAGE value="Feature: Remote Repo not found :(, trying to debug" />
     <MESSAGE value="Feature: Remote Repo is up now :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Remote Repo is up now :)" />
+    <MESSAGE value="Feature: Added img's for Guest Speakers, Changed footer for Assignment instructions, corrected img for the &lt;head&gt; tag, added customer quote, created list for tix prices, formatted begining info (name, motto, &amp; 75th aniversary" />
+    <MESSAGE value="Feature: Lowered letter casing on &quot;this season's guests&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Lowered letter casing on &quot;this season's guests&quot;" />
   </component>
 </project>
