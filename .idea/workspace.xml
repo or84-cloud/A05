@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7e85ef-19a4-4b2d-9e1c-216b6aa30bbe" name="Changes" comment="Feature: Added return home links to the speakers' websites, not sure why the pictures won't render upon returning.">
+    <list default="true" id="9a7e85ef-19a4-4b2d-9e1c-216b6aa30bbe" name="Changes" comment="Feature: Trying to get index.html to work on GitHub Pages">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +105,9 @@
       <workItem from="1761236180445" duration="3074000" />
       <workItem from="1761241878622" duration="39000" />
       <workItem from="1761243557471" duration="42000" />
-      <workItem from="1761266456584" duration="641000" />
+      <workItem from="1761266456584" duration="1004000" />
+      <workItem from="1761267689633" duration="131000" />
+      <workItem from="1761267825420" duration="63000" />
     </task>
     <task id="LOCAL-00001" summary="Feature: Finally got the files uploaded, working through questions now">
       <option name="closed" value="true" />
@@ -187,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761240211355</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Feature: Added the increment module to go back to index.html.">
+      <option name="closed" value="true" />
+      <created>1761267355699</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1761267355699</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,6 +222,7 @@
     <MESSAGE value="Feature: Added img's for Guest Speakers, Changed footer for Assignment instructions, corrected img for the &lt;head&gt; tag, added customer quote, created list for tix prices, formatted begining info (name, motto, &amp; 75th aniversary" />
     <MESSAGE value="Feature: Lowered letter casing on &quot;this season's guests&quot;" />
     <MESSAGE value="Feature: Added return home links to the speakers' websites, not sure why the pictures won't render upon returning." />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added return home links to the speakers' websites, not sure why the pictures won't render upon returning." />
+    <MESSAGE value="Feature: Added the increment module to go back to index.html." />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added the increment module to go back to index.html." />
   </component>
 </project>
